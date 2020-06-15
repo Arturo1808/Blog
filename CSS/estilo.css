@@ -1,7 +1,19 @@
-body
+h1
+{
+    color: seagreen;
+    text-align: center;
+    font-family: cursive;
+    font-size: xx-large;
+}
+p
 {
     color: red;
     text-align: left;
     font-family: Arial;
-    
+
+}
+
+#cabecera
+{
+    color:blue;
 }
