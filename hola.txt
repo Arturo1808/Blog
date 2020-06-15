@@ -10,3 +10,5 @@ y hoy hablamos de git
 y hola
 y esta buena esta clase
 y este es un anadido para el dia 15 de junio 2020
+
+esta bien chevere las ramas no?
