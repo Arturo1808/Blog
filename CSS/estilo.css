@@ -1,17 +1,32 @@
 h1
 {
-    color: yellow;
+    color: black;
     text-align: center;
     font-family: cursive;
     font-size: xx-large;
 }
 p
 { color: red;
-    text-align: left;
-    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
+
 
 #cabecera
 {
-    color: turquoise;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#post
+{
+    text-align: center;
+    background-color: floralwhite;
+    width: 300px;
+    border: 15px aquamarine;
+    padding: 50px;
+    margin: auto;
+
 }
