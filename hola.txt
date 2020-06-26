@@ -5,6 +5,10 @@ y tengo 14 anos y vivo en canada (nose como poner la n con rayita)
 
 c mamo este hombre
 
+master 1
+
+master 2
+
 hoy es un jugador promedio de pokemon 
 y hoy hablamos de git
 y hola
