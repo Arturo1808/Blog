@@ -5,3 +5,4 @@ bienvenido a mi proyecto, aqui no vamos a hacer gran cosa. lo unvi interesante e
 * ola otra vez :v
 >**aaaaaaaaaaaaaaaaaaaaaaaa**
 **creado po mi**
+**incluye ejemplo sne windows linux y mac**
